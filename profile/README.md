@@ -1,1 +1,1 @@
-# Public Health FHIR Implementation Collaborative
+# Public Health FHIR&reg; Implementation Collaborative
