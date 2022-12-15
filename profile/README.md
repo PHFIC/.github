@@ -1,1 +1,1 @@
-![phfic_logo.png](Public Health FHIR&reg; Implementation Collaborative)
+![Public Health FHIR&reg; Implementation Collaborative](phfic_logo.png)
